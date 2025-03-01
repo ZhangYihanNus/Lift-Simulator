@@ -2,5 +2,5 @@
 
 ### Running the program
 ```
-python RunLifts.py
+python RunGUI.py
 ```
